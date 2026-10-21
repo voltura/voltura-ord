@@ -1,0 +1,11 @@
+{
+  "version": "saldom-2017-09-19-v1-ce8d39c9edab",
+  "words": 709193,
+  "entries": 113912,
+  "source": "https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/saldom/saldom.xml",
+  "sourceSha256": "8e484c61722e6ac1b40812aa09d9bea56852c178a95754d7406e752943ea05b2",
+  "sha256": "ce8d39c9edab6901732baf6068716f9a244ae73cd5e89b49e1300cb63b846747",
+  "license": "CC-BY-4.0",
+  "attribution": "Språkbanken (2017). SALDOs morfologi. Göteborgs universitet. https://doi.org/10.23695/agcm-ny22",
+  "changes": "Fullständiga gemena ordformer, 2–15 bokstäver A–Z/ÅÄÖ. Egennamn, förkortningar, flerordsuttryck och sammansättningsled uteslutna. Konverterade till versaler och deduplicerade."
+}

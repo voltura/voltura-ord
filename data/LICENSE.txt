@@ -1,0 +1,18 @@
+SALDOs morfologi – bearbetat urval för Voltura Ord
+
+Språkbanken (2017). SALDOs morfologi (uppdaterad 2017-09-19).
+Göteborgs universitet. https://doi.org/10.23695/agcm-ny22
+Resource: https://spraakbanken.gu.se/resurser/saldom
+Source: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/saldom/saldom.xml
+
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Changes: extracted complete lowercase word forms from ordinary word classes;
+excluded proper-name, abbreviation and multiword classes and compound stems;
+restricted to 2–15 letters in A–Z/ÅÄÖ, converted to uppercase, deduplicated and
+partitioned by initial two letters. See import-dictionary.py and dictionary.json
+for the exact filter, source checksum, word-list checksum and fixed version.
+
+The source is descriptive, not an official SAOL word-game dictionary.
+Attribution does not imply endorsement by Språkbanken or Göteborgs universitet.
