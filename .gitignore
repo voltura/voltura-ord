@@ -1,0 +1,6 @@
+# Local dependencies and private runtime state
+node_modules/
+.dev.vars*
+.env*
+.wrangler/
+dist/
